@@ -46,7 +46,7 @@
   <a href="mailto:dayenesantos.work@gmail.com" title="Gmail">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/dayene-santos" title="LinkedIn">
+  <a href="www.linkedin.com/dayene-dos-santos-rosa" title="LinkedIn">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/dayene-santos" title="GitHub">
