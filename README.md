@@ -4,9 +4,9 @@
 
 ### Sobre mim 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva Wyden.
-💼 Em busca de estágio na área de backend, com foco em Java.
-🌱 Atualmente, estou dedicada ao aprendizado de lógica de programação em Java e SQL, buscando aprimorar minhas habilidades.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva Wyden.
+- 💼 Em busca de estágio na área de backend, com foco em Java.
+- 🌱 Atualmente, estou dedicada ao aprendizado de lógica de programação em Java e SQL, buscando aprimorar minhas habilidades.
 
 ---
 
