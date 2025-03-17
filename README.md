@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
 
-### Sobre mim 
-
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva Wyden.
 - 💼 Em busca de estágio na área de backend, com foco em Java.
 - 🌱 Atualmente, estou dedicada ao aprendizado de lógica de programação em Java e SQL, buscando aprimorar minhas habilidades.
