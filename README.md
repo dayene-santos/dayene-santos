@@ -1,44 +1,81 @@
-## 👋 Olá, meu nome é Dayene!
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Newton Paiva Wyden.
-- 💼 Em busca de estágio na área de backend, com foco em Java.
-- 🌱 Atualmente, estou dedicada ao aprendizado de lógica de programação em Java e SQL, buscando aprimorar minhas habilidades.
-
 ---
 
-## 📊 Estatísticas  
+# 🩸 Sistema de Cadastro de Doações de Sangue
 
-![Linguagens do Projeto](https://github-readme-stats.vercel.app/api/top-langs/?username=dayene-santos&hide=html&layout=compact&theme=dark)
+Projeto pessoal desenvolvido por **Dayene**, com o objetivo de praticar backend com **Java (Spring Boot)** e banco de dados com **SQL Server**. A ideia é criar uma API simples e funcional para gerenciar doadores de sangue, tipos sanguíneos e agendamentos de doações.  
+  
+Além de colocar em prática o que venho aprendendo na faculdade, também estou usando o projeto como um exercício completo de desenvolvimento — desde a análise de requisitos até a implementação e documentação.
 
----
+## 🎯 Objetivos do Projeto
 
-## 🚀 Minhas Skills  
+- Aprender a criar uma API REST do zero com Spring Boot
+- Praticar modelagem e manipulação de dados com SQL Server
+- Aplicar boas práticas de organização de código e versionamento
+- Ter um projeto concreto para acompanhar minha evolução como desenvolvedora backend
 
-### 💻 Linguagens e Banco de Dados  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-</p>
+## 🧰 Tecnologias e Ferramentas
 
-### 🛠️ Ferramentas e IDEs  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse IDE"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-</p>
+- **Java 17**
+- **Spring Boot**
+- **SQL Server**
+- **Maven**
+- **Postman**
+- **Git e GitHub**
+- **Trello** (para organização de tarefas)
 
-### 📄 Documentação e Produtividade  
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/2B579A/ms-word.png" alt="Word"/>
-  <img src="https://img.icons8.com/ios-filled/50/217346/ms-excel.png" alt="Excel"/>
-</p>
+## ✅ Funcionalidades
 
+### ✔️ Concluídas
 
+- [x] Análise e levantamento dos requisitos iniciais  
+- [x] Criação e organização do repositório GitHub  
+- [x] Estrutura inicial do projeto definida  
 
----
+### ⏳ Em andamento / A fazer
+
+- [ ] Modelagem do banco de dados (MER/DER)  
+- [ ] Criação das entidades: Doadores, Tipos Sanguíneos, Agendamentos  
+- [ ] CRUD completo via API REST  
+- [ ] Validações básicas (idade mínima, e-mail, tipo sanguíneo válido)  
+- [ ] Conexão com SQL Server  
+- [ ] Testes no Postman  
+- [ ] Documentação da API com Swagger  
+
+## 📁 Estrutura do Projeto
+
+```
+src/
+ └── main/
+     ├── java/
+     │   └── com.dayene.doacoes
+     │       ├── controller
+     │       ├── model
+     │       ├── repository
+     │       └── service
+     └── resources/
+         └── application.properties
+```
+
+## 🚀 Como Executar
+
+> Requisitos: Java 17, Maven, SQL Server
+
+```bash
+# Clone o repositório
+git clone https://github.com/dayene-santos/sistema-doacoes-sangue.git
+
+# Acesse a pasta do projeto
+cd sistema-doacoes-sangue
+
+# Configure seu application.properties com os dados do banco
+
+# Rode o projeto
+mvn spring-boot:run
+```
+
+## 👩‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, e este projeto é parte da minha jornada como futura desenvolvedora backend. Quero aprender fazendo, errando e melhorando a cada commit.
 
 ## 📫 Onde me encontrar  
 
@@ -53,3 +90,5 @@
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
   </a>
 </p>
+
+---
