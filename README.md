@@ -46,6 +46,7 @@
   <img src="https://img.icons8.com/ios-filled/50/217346/ms-excel.png" alt="Excel"/>
 </p>
 ---
+
 ## 📫 Onde me encontrar  
 
 <p align="left">
